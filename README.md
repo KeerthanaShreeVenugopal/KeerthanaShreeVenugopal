@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Keerthana Shree</h1>
-<h3 align="center">A passionate full-stack developer who loves building meaningful products. I enjoy working on startup ideas and building user-focused we apps with clean UI and a solid backend</h3>
+<h3 align="center">A passionate full-stack developer who loves building meaningful products. I enjoy working on startup ideas and building user-focused apps with clean UI and a solid backend</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=keerthanashreevenugopal" alt="keerthanashreevenugopal" /></a> </p>
 
